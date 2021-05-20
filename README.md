@@ -1,7 +1,7 @@
 ### 👋 Hi there! I'm Seher GUL.
- ⚡  I’m currently learning Java.
- 
- 📫 You can reach me: sehernege@gmail.com
+ ![d](https://user-images.githubusercontent.com/74426083/119000725-08de0b00-b994-11eb-8ce0-8a0e61ece001.png) I’m currently learning Java.
+
+ ![gggg](https://user-images.githubusercontent.com/74426083/119001169-6b370b80-b994-11eb-995b-7324f6d31380.png) You can reach me: sehernege@gmail.com
 
 <!--
 **sehergul/sehergul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
+...
 
