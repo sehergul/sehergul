@@ -1,5 +1,5 @@
 ### 👋 Hi there! I'm Seher Nur GUL.
-![sd](https://user-images.githubusercontent.com/74426083/119001631-cff26600-b994-11eb-89b8-47aee8a4d175.png)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
  I’m currently learning Java.
  
  
@@ -9,6 +9,7 @@
 
   <a href="https://www.linkedin.com/in/seher-nur-g%C3%BCl-0267561a4/" target="_blank" rel="nofollow"><img alt="Seher's Linkedin" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="mailto:sehernege@gmail.com" target="_blank" rel="nofollow"><img alt="Seher's Mail Address" src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+ 
 
 ![Seher's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehergul&show_icons=true&theme=default)
 
