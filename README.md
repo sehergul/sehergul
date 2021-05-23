@@ -15,6 +15,7 @@
 
 
 ## 📊 GitHub Stats
+
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sehergul&layout=compact&theme=light) 
 
 ![Seher's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehergul&show_icons=true&theme=default)
