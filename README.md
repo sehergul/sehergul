@@ -16,10 +16,12 @@
 
 ## 📊 GitHub Stats
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sehergul&layout=compact&theme=light) 
+<img align="right" width="300" height="250" src= https://user-images.githubusercontent.com/74426083/119271384-f836ca80-bc09-11eb-97d4-8679e1c77d6a.jpg>
 
 ![Seher's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehergul&show_icons=true&theme=default)
 
+<img src="https://img.shields.io/badge/Eclipse-black?style=for-the-badge&logo=eclipse&logoColor=white"></img>
+<img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql&logoColor=white"></img>
 
 
 
