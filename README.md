@@ -1,3 +1,5 @@
+<img align="right" width="300" height="250" src= https://user-images.githubusercontent.com/74426083/119266170-6a031a00-bbf2-11eb-9126-6cb48f6a07d3.jpg >
+
 ### 👋 Hi there! I'm Seher Nur GUL.
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
  I’m currently learning Java.
