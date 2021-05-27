@@ -6,8 +6,8 @@
 
 
 [![GitHub followers](https://img.shields.io/github/followers/sehergul?style=social)](https://github.com/sehergul?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/sehergul?style=social)
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=sehergul.visitor-badge)](https://GitHub.com/sehergul/StrapDown.js/stargazers/)
+ ![GitHub stars](https://img.shields.io/github/stars/sehergul?style=social)
+ [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=sehergul.visitor-badge)](https://GitHub.com/sehergul/StrapDown.js/stargazers/)
 
  <a href="https://www.linkedin.com/in/seher-nur-g%C3%BCl-0267561a4/" target="_blank" rel="nofollow"><img alt="Seher's Linkedin" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
  <a href="mailto:sehernege@gmail.com" target="_blank" rel="nofollow"><img alt="Seher's Mail Address" src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" /></a>
