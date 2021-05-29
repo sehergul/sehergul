@@ -18,7 +18,7 @@
 
 <img align="right" width="300" height="250" src= https://user-images.githubusercontent.com/74426083/119271384-f836ca80-bc09-11eb-97d4-8679e1c77d6a.jpg>
 
-![Seher's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehergul&show_icons=true&theme=default)
+![Seher's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehergul&show_icons=true&theme=dracula)
 
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
