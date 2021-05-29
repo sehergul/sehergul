@@ -6,12 +6,20 @@
 
 
 [![GitHub followers](https://img.shields.io/github/followers/sehergul?style=social)](https://github.com/sehergul?tab=followers)
- ![GitHub stars](https://img.shields.io/github/stars/sehergul?style=social)
- [![Github visitors](https://visitor-badge.glitch.me/badge?page_id=sehergul.visitor-badge)](https://GitHub.com/sehergul/StrapDown.js/stargazers/)
+![GitHub stars](https://img.shields.io/github/stars/sehergul?style=social) 
+  
 
- <a href="https://www.linkedin.com/in/seher-nur-g%C3%BCl-0267561a4/" target="_blank" rel="nofollow"><img alt="Seher's Linkedin" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- <a href="mailto:sehernege@gmail.com" target="_blank" rel="nofollow"><img alt="Seher's Mail Address" src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/sehergul" target="_blank" rel="nofollow"><img alt="Seher's Github" img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitee"></img>
+ <a href="https://www.linkedin.com/in/seher-nur-g%C3%BCl-0267561a4/" target="_blank" rel="nofollow"><img alt="Seher's Linkedin" src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue" /></a>
+ <a href="mailto:sehernege@gmail.com" target="_blank" rel="nofollow"><img alt="Seher's Mail Address" src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red" /></a>
+  <a href="https://github.com/sehergul" target="_blank" rel="nofollow"><img alt="Seher's Github" img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img>
+
+  <a>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sehergul&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="Seher Nur GUL" />
+</a>
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 
 
 ## 📊 GitHub Stats
@@ -21,9 +29,6 @@
 ![Seher's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehergul&show_icons=true&theme=default)
 
 
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 
 
 
