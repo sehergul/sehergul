@@ -13,20 +13,17 @@
  <a href="mailto:sehernege@gmail.com" target="_blank" rel="nofollow"><img alt="Seher's Mail Address" src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red" /></a>
   <a href="https://github.com/sehergul" target="_blank" rel="nofollow"><img alt="Seher's Github" img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></img>
 
-  <a>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sehergul&show_icons=true&theme=default&include_all_commits=true&count_private=true" alt="Seher Nur GUL" />
-</a>
-
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
-
 
 ## 📊 GitHub Stats
 
 <img align="right" width="300" height="250" src= https://user-images.githubusercontent.com/74426083/119271384-f836ca80-bc09-11eb-97d4-8679e1c77d6a.jpg>
 
 ![Seher's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehergul&show_icons=true&theme=default)
+
+
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 
 
 
