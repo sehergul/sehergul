@@ -13,6 +13,8 @@
  <a href="mailto:sehernege@gmail.com" target="_blank" rel="nofollow"><img alt="Seher's Mail Address" src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red" /></a>
   <a href="https://github.com/sehergul" target="_blank" rel="nofollow"><img alt="Seher's Github" img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=pink"></img>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sehergul&show_icons=true&theme=dracula&locale=en&layout=compact" alt="sehergul" />
+
 
 ## 📊 GitHub Stats
 
@@ -21,9 +23,11 @@
 ![Seher's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehergul&show_icons=true&theme=dracula)
 
 
+
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+
 
 
 
